@@ -263,11 +263,7 @@ return [
             'url'  =>  './admin/galleries',
             'icon' => 'fas fa-photo-video',
         ],
-        [
-            'text' => 'Empresas sello IS',
-            'url'  =>  './admin/companies',
-            'icon' => 'far fa-building',
-        ],
+        
         [
             'text' => 'Innocent´s Souls',
             'url'  =>  './admin/enterprises',
